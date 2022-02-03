@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         4chan Redirct to Catalog View
+// @name         4chan Redirect to Catalog View
 // @version      1.0
 // @match        *boards.4chan.org/*/
 // @match        *boards.4channel.org/*/
